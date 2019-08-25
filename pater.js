@@ -5,3 +5,4 @@
 		e.preventDefault();
 		pater.style.display = 'none';
 	});
+	alert("alert");
