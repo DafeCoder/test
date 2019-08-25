@@ -6,3 +6,4 @@
 		pater.style.display = 'none';
 	});
 	alert("alert");
+	alert("alert 2");
